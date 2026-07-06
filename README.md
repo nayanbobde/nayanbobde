@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws,azure" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
 
 </p>
 

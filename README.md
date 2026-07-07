@@ -50,15 +50,7 @@
 </p>
 
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
-
-</p>
 
 ---
 
